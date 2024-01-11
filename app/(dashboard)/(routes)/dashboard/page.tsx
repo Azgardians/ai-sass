@@ -1,6 +1,10 @@
 const Dashboard = () => {
   return (
-    <p className="text-6xl text-green-500">Hello from hello</p>
+    <>
+      <p className="text-green-500">
+        Dashboard Page (protected)
+      </p>  
+    </>
   )
 }
 
